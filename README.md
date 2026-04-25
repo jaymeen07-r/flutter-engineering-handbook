@@ -39,3 +39,6 @@ This repository is a collection of engineering practices, system designs, reusab
 ## 🎯 Goal
 
 To reduce development time, improve code quality, and build production-ready Flutter applications using a structured engineering approach.
+
+
+> ⚠️ This handbook evolves with real projects. Every section is tested in actual development.
