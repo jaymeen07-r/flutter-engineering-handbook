@@ -1,10 +1,11 @@
 # Flutter Engineering Handbook
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jaymeen07-r/flutter-engineering-handbook)
-![GitHub stars](https://img.shields.io/github/stars/jaymeen07-r/flutter-engineering-handbook?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/jaymeen07-r/flutter-engineering-handbook)
-![License](https://img.shields.io/github/license/jaymeen07-r/flutter-engineering-handbook)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![Repo Size](https://img.shields.io/github/repo-size/jaymeen07-r/flutter-engineering-handbook?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/jaymeen07-r/flutter-engineering-handbook?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/jaymeen07-r/flutter-engineering-handbook?style=for-the-badge)
+![License](https://img.shields.io/github/license/jaymeen07-r/flutter-engineering-handbook?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
 
 A structured engineering system for designing, planning, and building scalable, production-grade Flutter applications.
 
