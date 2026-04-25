@@ -1,6 +1,6 @@
 # Flutter Engineering Handbook
 
-![GitHub repo size](https://img.shields.io/github/repo-sizejaymeen07-r/flutter-engineering-handbook)
+![GitHub repo size](https://img.shields.io/github/repo-size/jaymeen07-r/flutter-engineering-handbook)
 ![GitHub stars](https://img.shields.io/github/stars/jaymeen07-r/flutter-engineering-handbook?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jaymeen07-r/flutter-engineering-handbook)
 ![License](https://img.shields.io/github/license/jaymeen07-r/flutter-engineering-handbook)
