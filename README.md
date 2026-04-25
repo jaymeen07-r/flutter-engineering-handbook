@@ -1,6 +1,13 @@
 # Flutter Engineering Handbook
 
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/flutter-engineering-handbook)
+![GitHub stars](https://img.shields.io/github/stars/your-username/flutter-engineering-handbook?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/flutter-engineering-handbook)
+![License](https://img.shields.io/github/license/your-username/flutter-engineering-handbook)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+
 A structured engineering system for designing, planning, and building scalable, production-grade Flutter applications.
+
 
 ---
 
